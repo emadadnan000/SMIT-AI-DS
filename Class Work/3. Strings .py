@@ -12,3 +12,11 @@ print(stp[-1])
 print(stp[-1:-6:-1])
 #reverse the string
 print(stp[::-1])
+
+
+# formatted strings
+user_input = int(input("Enter any number: "))
+if (user_input%2) == 0:
+    print(f"{user_input} is even number ")
+else:
+    print(f"{user_input} is odd number ")
