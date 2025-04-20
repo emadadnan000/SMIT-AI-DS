@@ -1,4 +1,3 @@
-#while Loop and logical conditions
 secret_number = 5
 max_attempts = 3
 attempts = 0
