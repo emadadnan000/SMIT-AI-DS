@@ -3,9 +3,7 @@
   <img src="assets/banner.png" alt="Project Banner">
 </p>
 
-<p align="center">
-My wor through the SMIT AI and Data Science course.
-<br>
+
 <a href="https://github.com/emadadnan000/SMIT-AI-DS"><strong>Explore the files »</strong></a>
 <br><br>
 <img src="https://img.shields.io/badge/Python-3.11-blue.svg" alt="Python Badge"/>
