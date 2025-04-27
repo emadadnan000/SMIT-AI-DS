@@ -1,6 +1,6 @@
 <h1 align="center">SMIT-AI & DS Course 🚀</h1>
 <p align="center">
-  <img src="assets" alt="Project Banner">
+  <img src="[assets](https://github.com/emadadnan000/SMIT-AI-DS/blob/3bd48ba92b055708524b55e75528955f6ebfe4d9/assets/SMIT%20AI-DS%20Project%20Banner.png)" alt="Project Banner">
 </p>
 
 
