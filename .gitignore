@@ -164,3 +164,4 @@ cython_debug/
 
 .vscode/extensions.json
 .vscode/settings.json
+.github/prompts/boost prompt.prompt.md
