@@ -166,3 +166,4 @@ cython_debug/
 .vscode/settings.json
 .github/prompts/boost prompt.prompt.md
 .github/copilot-instructions.md
+.vscode
